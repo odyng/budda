@@ -1,0 +1,34 @@
+{
+    "verification":"d325ad95309cb8b2e9",
+    "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/cexplorer.io/main/examples/meta.json",
+    "info": {
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/Dudypha/thrvd/main/thrvd.png",
+        "url_png_logo": "https://raw.githubusercontent.com/Dudypha/thrvd/main/Buddhism_dham_jak.png",
+        "location": "Mekong River basin",
+        "social": {
+            "twitter_handle": "TheravadaPool",
+            "telegram_handle": "",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": "",
+            "patreon_handle": "",
+            "linkedin_handle": "",
+            "ada_handle": "$cexplorer"
+        },
+        "company": {
+            "name": "",
+            "addr": "",
+            "city": "",
+            "country": "",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "",
+            "server": "",
+            "company": ""
+        }
+    }
+}
