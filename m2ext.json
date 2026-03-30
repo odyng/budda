@@ -1,0 +1,33 @@
+{
+    "info": {
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/buddapool/budda/f/icon.png",
+        "url_png_logo": "https://raw.githubusercontent.com/buddapool/budda/f/logo.png",
+        "location": "Mekong Delta, Vietnam",
+        "social": {
+            "twitter_handle": "BuddaADAPool",
+            "telegram_handle": "buddapool",
+            "facebook_handle": "budda.bmm",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "52CC6MBu",
+            "github_handle": ""
+        },
+        "company": {
+            "name": "",
+            "addr": "",
+            "city": "",
+            "country": "",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "",
+            "server": "",
+            "company": ""
+        },
+    "my-pool-ids": {
+        "0": "09c932d2d572053c44f9162dfc8cf5e271ab1b3bdc1815b3d51c5151",
+        "1": ""
+      }
+    }
+}
